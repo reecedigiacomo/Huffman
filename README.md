@@ -1,1 +1,1 @@
-A data compression algorithm that follows [Huffman Coding]([url](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)) to compress variable length inputs to codes which are assigned based on the frequency of the inputs occurence.
+
